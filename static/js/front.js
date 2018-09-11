@@ -19,6 +19,7 @@ $(function () {
   animations()
   counters()
   demo()
+  // ajax form requires GOLD account
   //contactForm()
 })
 
