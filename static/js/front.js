@@ -19,7 +19,7 @@ $(function () {
   animations()
   counters()
   demo()
-  contactForm()
+  //contactForm()
 })
 
 // Ajax contact
